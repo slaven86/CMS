@@ -53,7 +53,7 @@ while($row = mysqli_fetch_assoc($listing)){
   </div>
   <div class="col-sm-3">
     <label for="inputName" class="control-label"><strong> Godina </strong> </label>
-    <input name="year" required class="form-control" type="text" id="year" value="<?php echo $year; ?>">
+    <input name="year" required class="form-control" type="number" id="year" value="<?php echo $year; ?>">
   </div>
 
 <div class="col-sm-3">
