@@ -86,7 +86,7 @@ input[type="submit"]:hover {
 	<div class="submit"><input name="submit" type="submit" value=" Login "> </div>
 	 <span style="color:red;"><?php echo $error; ?></span>
 	 
-	 neka promena !!
+	 
 
 
 </form>
