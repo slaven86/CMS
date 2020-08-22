@@ -85,6 +85,8 @@ input[type="submit"]:hover {
 	<input type="password" name="password" placeholder="*********" id="password" />
 	<div class="submit"><input name="submit" type="submit" value=" Login "> </div>
 	 <span style="color:red;"><?php echo $error; ?></span>
+	 
+	 neka promena !!
 
 
 </form>
